@@ -1,4 +1,3 @@
-from cProfile import label
 from tkinter import *
 from pandas import read_csv
 from seaborn import countplot
