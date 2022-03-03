@@ -1,4 +1,3 @@
-from operator import index
 from pywhatkit.whats import sendwhatmsg
 
 number = input("Enter the number with with the calling code: ")
