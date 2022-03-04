@@ -1,5 +1,4 @@
 from tkinter import *
-from pyparsing import col
 from pywhatkit.whats import sendwhatmsg
 
 frame = Tk()
