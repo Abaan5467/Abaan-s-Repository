@@ -3,8 +3,6 @@ import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
 
-print(s.screensize())
-
 s.bgcolor('white')
 s.title('France Flag')
 
